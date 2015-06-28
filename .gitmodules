@@ -1,0 +1,6 @@
+[submodule "ShiCaiqiang"]
+	path = ShiCaiqiang
+	url = git@github.com:scq000/pre-pos.git
+[submodule "SongJianhua"]
+	path = SongJianhua
+	url = git@github.com:songjianhua2012/pre-pos.git

@@ -4,3 +4,6 @@
 [submodule "SongJianhua"]
 	path = SongJianhua
 	url = git@github.com:songjianhua2012/pre-pos.git
+[submodule "WangFengzhu"]
+	path = WangFengzhu
+	url = git@github.com:carolineF/pre-pos.git

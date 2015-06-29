@@ -7,3 +7,6 @@
 [submodule "WangFengzhu"]
 	path = WangFengzhu
 	url = git@github.com:carolineF/pre-pos.git
+[submodule "WangXiaolong"]
+	path = WangXiaolong
+	url = git@github.com:XiaoLongW/pre-pos.git

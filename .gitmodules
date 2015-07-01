@@ -13,3 +13,6 @@
 [submodule "LiYa"]
 	path = LiYa
 	url = git@github.com:aositelici/pre-pos.git
+[submodule "ZhouYixing"]
+	path = ZhouYixing
+	url = git@github.com:sialvsic/pre-pos.git

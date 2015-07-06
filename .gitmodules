@@ -16,3 +16,6 @@
 [submodule "ZhouYixing"]
 	path = ZhouYixing
 	url = git@github.com:sialvsic/pre-pos.git
+[submodule "LiuDi"]
+	path = LiuDi
+	url = git@github.com:Danaekola/pre-pos.git

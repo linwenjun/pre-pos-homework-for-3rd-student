@@ -19,3 +19,6 @@
 [submodule "LiuDi"]
 	path = LiuDi
 	url = git@github.com:Danaekola/pre-pos.git
+[submodule "ZhaoShaoyi"]
+	path = ZhaoShaoyi
+	url = git@github.com:simpletrain/pre-pos.git

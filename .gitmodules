@@ -25,3 +25,6 @@
 [submodule "WuXue"]
 	path = WuXue
 	url = git@github.com:zwimeyihmh/pre-pos.git
+[submodule "LiYuanyuan"]
+	path = LiYuanyuan
+	url = git@github.com:liyuanyuan57/pre-pos.git

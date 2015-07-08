@@ -22,3 +22,6 @@
 [submodule "ZhaoShaoyi"]
 	path = ZhaoShaoyi
 	url = git@github.com:simpletrain/pre-pos.git
+[submodule "WuXue"]
+	path = WuXue
+	url = git@github.com:zwimeyihmh/pre-pos.git

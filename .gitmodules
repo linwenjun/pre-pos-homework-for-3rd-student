@@ -31,3 +31,9 @@
 [submodule "LiDanyang"]
 	path = LiDanyang
 	url = git@github.com:ldyyukito/pre-pos.git
+[submodule "LiYu"]
+	path = LiYu
+	url = git@github.com:Evan-Leee/pre-pos.git
+[submodule "WangYue"]
+	path = WangYue
+	url = git@github.com:WY08271/pre-pos.git

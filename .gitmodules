@@ -42,4 +42,4 @@
 	url = git@github.com:SherryPann/pre-pos.git
 [submodule "YangLin"]
 	path = YangLin
-	url = git@github.com:SherryPann/pre-pos.git
+	url = git@github.com:anlin-yang/pre-pos.git

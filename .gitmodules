@@ -43,3 +43,6 @@
 [submodule "YangLin"]
 	path = YangLin
 	url = git@github.com:anlin-yang/pre-pos.git
+[submodule "SunTianjing"]
+	path = SunTianjing
+	url = git@github.com:purpletianjing/pre-pos.git

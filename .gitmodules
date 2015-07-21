@@ -19,3 +19,6 @@
 [submodule "Xixi"]
 	path = Xixi
 	url = git@github.com:lotusscofield/pre-pos.git
+[submodule "CaoRong"]
+	path = CaoRong
+	url = git@github.com:urnotchrissie/pre-pos.git

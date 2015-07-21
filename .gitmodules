@@ -1,39 +1,6 @@
-[submodule "SongJianhua"]
-	path = SongJianhua
-	url = git@github.com:songjianhua2012/pre-pos.git
-[submodule "WangFengzhu"]
-	path = WangFengzhu
-	url = git@github.com:carolineF/pre-pos.git
-[submodule "WangXiaolong"]
-	path = WangXiaolong
-	url = git@github.com:XiaoLongW/pre-pos.git
-[submodule "LiYa"]
-	path = LiYa
-	url = git@github.com:aositelici/pre-pos.git
-[submodule "ZhouYixing"]
-	path = ZhouYixing
-	url = git@github.com:sialvsic/pre-pos.git
-[submodule "LiuDi"]
-	path = LiuDi
-	url = git@github.com:Danaekola/pre-pos.git
-[submodule "ZhaoShaoyi"]
-	path = ZhaoShaoyi
-	url = git@github.com:simpletrain/pre-pos.git
-[submodule "WuXue"]
-	path = WuXue
-	url = git@github.com:zwimeyihmh/pre-pos.git
-[submodule "LiYuanyuan"]
-	path = LiYuanyuan
-	url = git@github.com:liyuanyuan57/pre-pos.git
 [submodule "LiDanyang"]
 	path = LiDanyang
 	url = git@github.com:ldyyukito/pre-pos.git
-[submodule "LiYu"]
-	path = LiYu
-	url = git@github.com:Evan-Leee/pre-pos.git
-[submodule "WangYue"]
-	path = WangYue
-	url = git@github.com:WY08271/pre-pos.git
 [submodule "PanChen"]
 	path = PanChen
 	url = git@github.com:SherryPann/pre-pos.git

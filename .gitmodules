@@ -10,3 +10,6 @@
 [submodule "SunTianjing"]
 	path = SunTianjing
 	url = git@github.com:purpletianjing/pre-pos.git
+[submodule "LiuXinyu"]
+	path = LiuXinyu
+	url = git@github.com:Carolineliu/pre-pos.git

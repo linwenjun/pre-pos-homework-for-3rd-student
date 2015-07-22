@@ -19,6 +19,3 @@
 [submodule "CaoRong"]
 	path = CaoRong
 	url = git@github.com:urnotchrissie/pre-pos.git
-[submodule "YaoDanping"]
-	path = YaoDanping
-	url = https://github.com/AnliHuer/pre-pos.git

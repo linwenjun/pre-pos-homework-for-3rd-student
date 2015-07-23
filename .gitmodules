@@ -22,3 +22,6 @@
 [submodule "YaoDanping"]
 	path = YaoDanping
 	url = git@github.com:AnliHuer/pre-pos-new.git
+[submodule "ShiDandi"]
+	path = ShiDandi
+	url = git@github.com:Supersdd/pre-pos.git
